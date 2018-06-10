@@ -12,6 +12,7 @@ import com.fibonacci.kafka.KafkaProducerDemo;
 @SpringBootApplication
 public class KafkaBasicApplication implements CommandLineRunner {
 
+	//Adding comment to existing code.
 	@Autowired
 	KafkaProducerDemo kafkaProducerDemo;
 
